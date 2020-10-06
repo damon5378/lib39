@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/lib39/static/css/main.5f361e03.chunk.css",
-    "main.js": "/lib39/static/js/main.d271333f.chunk.js",
-    "main.js.map": "/lib39/static/js/main.d271333f.chunk.js.map",
+    "main.css": "/lib39/static/css/main.d7cbcbae.chunk.css",
+    "main.js": "/lib39/static/js/main.cf5a8f9c.chunk.js",
+    "main.js.map": "/lib39/static/js/main.cf5a8f9c.chunk.js.map",
     "runtime-main.js": "/lib39/static/js/runtime-main.1402ae4a.js",
     "runtime-main.js.map": "/lib39/static/js/runtime-main.1402ae4a.js.map",
-    "static/js/2.f60fc2d4.chunk.js": "/lib39/static/js/2.f60fc2d4.chunk.js",
-    "static/js/2.f60fc2d4.chunk.js.map": "/lib39/static/js/2.f60fc2d4.chunk.js.map",
+    "static/js/2.6830ca40.chunk.js": "/lib39/static/js/2.6830ca40.chunk.js",
+    "static/js/2.6830ca40.chunk.js.map": "/lib39/static/js/2.6830ca40.chunk.js.map",
     "index.html": "/lib39/index.html",
-    "precache-manifest.3521fd5afe6b09c3ef0e317ab0b7af45.js": "/lib39/precache-manifest.3521fd5afe6b09c3ef0e317ab0b7af45.js",
+    "precache-manifest.514f042fab31210576f6a6d39f39c594.js": "/lib39/precache-manifest.514f042fab31210576f6a6d39f39c594.js",
     "service-worker.js": "/lib39/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/lib39/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f60fc2d4.chunk.js.LICENSE.txt": "/lib39/static/js/2.f60fc2d4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lib39/static/media/logo.5d5d9eef.svg"
+    "static/css/main.d7cbcbae.chunk.css.map": "/lib39/static/css/main.d7cbcbae.chunk.css.map",
+    "static/js/2.6830ca40.chunk.js.LICENSE.txt": "/lib39/static/js/2.6830ca40.chunk.js.LICENSE.txt",
+    "static/media/birds.jpg": "/lib39/static/media/birds.12f330c0.jpg",
+    "static/media/App.css": "/lib39/static/media/img-4.0ec923fc.jpg",
+    "static/media/img-9.jpg": "/lib39/static/media/img-9.523a89f6.jpg",
+    "static/media/mult.jpg": "/lib39/static/media/mult.a04c6610.jpg",
+    "static/media/pdd.jpeg": "/lib39/static/media/pdd.a39b57df.jpeg",
+    "static/media/pushkin.jpg": "/lib39/static/media/pushkin.b742bea6.jpg",
+    "static/media/video.webm": "/lib39/static/media/video.26ba541d.webm"
   },
   "entrypoints": [
     "static/js/runtime-main.1402ae4a.js",
-    "static/js/2.f60fc2d4.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d271333f.chunk.js"
+    "static/js/2.6830ca40.chunk.js",
+    "static/css/main.d7cbcbae.chunk.css",
+    "static/js/main.cf5a8f9c.chunk.js"
   ]
 }
